@@ -1,1 +1,0 @@
-# easyquiz-spa-publish
