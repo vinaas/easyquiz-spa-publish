@@ -1,5 +1,6 @@
 {
     "name": "EasyWeb AdminCP",
     "version": 1.0,
-    "apiEndPoint" : "http://159.65.133.13:8899"
+    "apiEndPoint" : "http://159.65.133.13:8899",
+    "websiteTitle" : "Trung tâm Ngoại ngữ - Tin học Đăk Nông 123"
 }
